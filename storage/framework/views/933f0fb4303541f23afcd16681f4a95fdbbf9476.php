@@ -1,0 +1,1 @@
+<?php /**PATH D:\develop\LMS\resources\views/lms/layouts/js.blade.php ENDPATH**/ ?>
